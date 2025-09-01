@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.atlas402</groupId>
+    <artifactId>index</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+    <name>Atlas Index</name>
+    <description>Service discovery and indexing SDK for x402 ecosystem</description>
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+</project>
+
